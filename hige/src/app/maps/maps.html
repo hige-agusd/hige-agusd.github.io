@@ -1,8 +1,0 @@
-<div id="maps" class="myPathView" ng-init="init()">
-  <div id="map" my-map></div>
-  <form id='types'>
-    <div ng-repeat="feature in features track by $index">
-      <input type='checkbox' ng-model="typeFilter[feature]" name='filters' ng-change='drawMarkers();' value='feature' checked> {{feature}}
-    </div>
-  </form>
-</div>
