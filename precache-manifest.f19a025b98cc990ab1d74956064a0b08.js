@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/starwars-atlas/static/media/loading-kylo-saber.edf7ddab.gif"
   },
   {
-    "revision": "cc3019aa6439ef893839b8a0d6d0391d",
-    "url": "/starwars-atlas/static/media/Starjedi.cc3019aa.ttf"
-  },
-  {
     "revision": "d1736a532f80cb0ad544d89cafa36884",
     "url": "/starwars-atlas/static/media/SF Distant Galaxy Alternate.d1736a53.ttf"
   },
   {
     "revision": "f0b6ea67ba06de3f6770e5d93555fef7",
     "url": "/starwars-atlas/static/media/SF Distant Galaxy AltOutline.f0b6ea67.ttf"
+  },
+  {
+    "revision": "cc3019aa6439ef893839b8a0d6d0391d",
+    "url": "/starwars-atlas/static/media/Starjedi.cc3019aa.ttf"
   },
   {
     "revision": "dfccdfd940d3270e369fd46d44ae0511",
