@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.6d4a542f.chunk.css",
+  "main.css": "/static/css/main.68dc45cf.chunk.css",
   "main.js": "/static/js/main.bab7c094.chunk.js",
   "main.js.map": "/static/js/main.bab7c094.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -7,9 +7,9 @@
   "static/js/2.9a1af60a.chunk.js": "/static/js/2.9a1af60a.chunk.js",
   "static/js/2.9a1af60a.chunk.js.map": "/static/js/2.9a1af60a.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.10d0644c2a08132e89a185c7a19ab84c.js": "/precache-manifest.10d0644c2a08132e89a185c7a19ab84c.js",
+  "precache-manifest.e816f054534e3d7294bfae5d7b4df885.js": "/precache-manifest.e816f054534e3d7294bfae5d7b4df885.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.6d4a542f.chunk.css.map": "/static/css/main.6d4a542f.chunk.css.map",
+  "static/css/main.68dc45cf.chunk.css.map": "/static/css/main.68dc45cf.chunk.css.map",
   "static/media/App.css": "/static/media/Starjedi.cc3019aa.ttf",
   "static/media/Spinner.css": "/static/media/loading-kylo-saber.edf7ddab.gif"
 }

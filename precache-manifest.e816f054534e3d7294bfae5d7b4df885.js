@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "ca629dba9145573f7259",
-    "url": "/static/css/main.6d4a542f.chunk.css"
+    "revision": "e5d378fdc9284d19fabb",
+    "url": "/static/css/main.68dc45cf.chunk.css"
   },
   {
-    "revision": "ca629dba9145573f7259",
+    "revision": "e5d378fdc9284d19fabb",
     "url": "/static/js/main.bab7c094.chunk.js"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/SF Distant Galaxy Alternate.d1736a53.ttf"
   },
   {
-    "revision": "0b4bab3a400e67f94af0e95d7441355f",
+    "revision": "191e461f41b2d300b07574389fd5a933",
     "url": "/index.html"
   }
 ];
