@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.ae3d72c5.chunk.css",
-  "main.js": "/static/js/main.d8a35430.chunk.js",
-  "main.js.map": "/static/js/main.d8a35430.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a2d535c8.js",
-  "runtime~main.js.map": "/starwars-atlas/static/js/runtime~main.a2d535c8.js.map",
+  "main.css": "/static/css/main.6d4a542f.chunk.css",
+  "main.js": "/static/js/main.bab7c094.chunk.js",
+  "main.js.map": "/static/js/main.bab7c094.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
   "static/js/2.9a1af60a.chunk.js": "/static/js/2.9a1af60a.chunk.js",
   "static/js/2.9a1af60a.chunk.js.map": "/static/js/2.9a1af60a.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.f19a025b98cc990ab1d74956064a0b08.js": "/precache-manifest.f19a025b98cc990ab1d74956064a0b08.js",
+  "precache-manifest.10d0644c2a08132e89a185c7a19ab84c.js": "/precache-manifest.10d0644c2a08132e89a185c7a19ab84c.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.ae3d72c5.chunk.css.map": "/static/css/main.ae3d72c5.chunk.css.map",
+  "static/css/main.6d4a542f.chunk.css.map": "/static/css/main.6d4a542f.chunk.css.map",
   "static/media/App.css": "/static/media/Starjedi.cc3019aa.ttf",
   "static/media/Spinner.css": "/static/media/loading-kylo-saber.edf7ddab.gif"
 }
